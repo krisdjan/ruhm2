@@ -1,2 +1,2 @@
 # ruhm2
-2023 veebiprogrammeerimine digimeedia
+2023 veebiprogrammeerimine digimeedia, esimene github
